@@ -1,0 +1,312 @@
+/home/swnie/tdnn/test/20241231234553_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep100_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.004495   0.000942   0.000852   0.000765    0.9999 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.013421   0.004007   0.002690   0.004384    0.9964 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20241231234751_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.005015   0.001068   0.001011   0.000900    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.011230   0.003238   0.002079   0.003542    0.9977 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20241231235116_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep400_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.002271   0.000581   0.000501   0.000495    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.011094   0.003059   0.001759   0.003017    0.9977 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20241231235756_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep800_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.002149   0.000284   -0.000152   0.000298    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.008544   0.002606   0.000686   0.002647    0.9980 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250101001050_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1600_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.000685   0.000097   -0.000070   0.000099    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.008923   0.002978   0.001868   0.003066    0.9978 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250101021702_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep100_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.004944   0.001499   -0.001458   0.001162    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.008613   0.002595   -0.000383   0.002603    0.9978 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250101021912_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.002148   0.000487   0.000188   0.000453    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.013366   0.003481   0.001981   0.003671    0.9971 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250101022309_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep400_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.003954   0.000761   -0.000745   0.000647    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.009149   0.002642   0.000927   0.002663    0.9979 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250101023051_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep800_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.001598   0.000337   -0.000242   0.000317    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.010758   0.002567   0.000680   0.002456    0.9978 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250101024541_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1600_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.001040   0.000120   0.000054   0.000108    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.011124   0.002998   0.001915   0.003108    0.9979 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250102203911_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep2000_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.000485   0.000092   0.000020   0.000091    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.011190   0.002985   0.001458   0.003027    0.9975 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250102204239_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep2000_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.000384   0.000085   -0.000065   0.000075    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.012565   0.003274   0.001567   0.003511    0.9970 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250102211852_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep3000_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.000350   0.000059   -0.000044   0.000054    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.008750   0.003009   0.001318   0.003153    0.9974 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250102212111_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep3000_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.000284   0.000052   -0.000027   0.000049    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.011904   0.003729   0.002410   0.004003    0.9968 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250102221434_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep4000_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.000262   0.000058   0.000048   0.000047    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.012445   0.003007   0.001916   0.003455    0.9976 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250102221920_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep4000_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.000664   0.000154   0.000154   0.000116    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.011274   0.003116   0.001643   0.003372    0.9974 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250102235805_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.001558   0.000360   0.000339   0.000254    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.012321   0.003102   0.001630   0.003313    0.9976 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250103002514_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.000951   0.000108   -0.000035   0.000098    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.014280   0.002889   0.001709   0.003066    0.9974 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250103005420_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.000777   0.000159   0.000074   0.000159    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.010000   0.003117   0.001676   0.003258    0.9976 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250103012648_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.002252   0.000500   0.000500   0.000371    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.012260   0.003005   0.002012   0.003267    0.9978 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250103015820_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.001767   0.000473   0.000446   0.000359    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.012889   0.003302   0.002369   0.003677    0.9971 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250103030015_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.001160   0.000300   -0.000296   0.000228    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.010224   0.003039   0.001460   0.003386    0.9976 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250103033731_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.001412   0.000400   0.000398   0.000318    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.012038   0.003381   0.002398   0.003691    0.9973 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250103042058_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.001669   0.000317   0.000215   0.000318    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.011764   0.003482   0.002199   0.003541    0.9974 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250103050357_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE          ME       MARE   Pearson 
+qm7b     0.000914   0.000175   -0.000130   0.000165    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.012225   0.002981   0.001942   0.003104    0.9979 
+-------------------------------------------------------------------------
+
+/home/swnie/tdnn/test/20250103055412_mp2int_pm_8_locj_lock_locf_fenemat_wpnv2_ccpvtz_osvmp2_1e-4_ep1200_tr100_xstd_ystd
+Errors for offdiag_remote (kcal/mol)
+-------------------------------------------------------------------------
+train
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.000646   0.000140   0.000070   0.000139    1.0000 
+-------------------------------------------------------------------------
+valid
+            MaxAE        MAE         ME       MARE   Pearson 
+qm7b     0.009451   0.003211   0.001825   0.003346    0.9976 
+-------------------------------------------------------------------------
+

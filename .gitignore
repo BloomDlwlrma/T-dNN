@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
+
+# Temporary and Output Files
+output
+*.log
+*.tmp
+temp/
+
+# Data Sets (Assuming these are large or should be kept local)
+descriptors/
+check_data/
+
+# Test/Experiment Runs (Timestamped folders)
+test/202*
+test/temp/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env

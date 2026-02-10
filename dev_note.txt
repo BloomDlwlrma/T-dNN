@@ -1,0 +1,6 @@
+1. Prepare a sample tranning-valid dataset
+	In each run of ML trainning, a sample file is saved automatically in the output directory as mol_samp.hdf5
+2. Tune the given sample dataset
+	To read the sample file, create a environment variable file_sample
+	To disable the 'test' process, in the function 'predict' change 'self.data_types' to ['train', 'valid'] to skip test
+3. Test on the whole dataset
