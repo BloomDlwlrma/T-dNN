@@ -1,4 +1,8 @@
-export main_dir=/home/ubuntu/Shiwei/tdnn
+export main_dir=$(pwd)
+# Temporary directory on Lustre
+export TMPDIR=/lustre1/g/chem_yangjun/u3651388/T-dNN_data/tmp
+mkdir -p $TMPDIR
+
 export qm_method=osvccsd #osvmp2 osvccsd osvccsd-t
 export osv_tol=1e-4 #1e-4 1e-5 1e-6
 #export int_type=rhfint #mp2int rhfint
